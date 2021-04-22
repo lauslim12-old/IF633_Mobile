@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Week11_32827</string>
+    <string name="get_fail">Request returned unsuccessful!</string>
+    <string name="internal_error">An internal error happened! Please try again!</string>
+    <string name="sample_title">Title</string>
+    <string name="sample_body">Body</string>
+    <string name="fetch_text">Please wait while we are fetching your data!</string>
+    <string name="success_fetch">We have successfully fetched your data!</string>
+</resources>
